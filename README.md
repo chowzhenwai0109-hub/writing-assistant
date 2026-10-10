@@ -4,25 +4,23 @@ An intention-driven assistant for planning a short paragraph, writing your own s
 
 ## Screenshot walkthrough
 
-*Image placeholders below will be replaced with screenshots of the app.*
-
-1. ![Screenshot placeholder: draft settings](docs/screenshots/01-draft-settings.svg)
+1. ![draft settings](docs/screenshots/01-draft-settings.png)
 
    **Set the direction:** add a topic, audience/task, planned sentence count, and optional word range.
 
-2. ![Screenshot placeholder: intention sequence](docs/screenshots/02-intention-sequence.svg)
+2. ![intention sequence](docs/screenshots/02-intention-sequence.png)
 
    **Plan the paragraph:** generate an ordered sequence of sentence purposes, then edit or reorder it.
 
-3. ![Screenshot placeholder: writing hints](docs/screenshots/03-writing-hints.svg)
+3. ![writing hints](docs/screenshots/03-writing-hints.png)
 
    **Find a starting point:** select an intention and request ideas, vocabulary, connectives, or structure patterns.
 
-4. ![Screenshot placeholder: notes and sentence plan](docs/screenshots/04-notes-and-plan.svg)
+4. ![notes and sentence plan](docs/screenshots/04-notes-and-plan.png)
 
    **Turn notes into a plan:** explore slots, missing details, and ordering advice while writing your own sentence.
 
-5. ![Screenshot placeholder: sentence check](docs/screenshots/05-sentence-check.svg)
+5. ![sentence check](docs/screenshots/05-sentence-check.png)
 
    **Review the sentence:** see an advisory intention verdict and targeted issues without an automatic rewrite.
 
