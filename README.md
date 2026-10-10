@@ -103,18 +103,16 @@ npm.cmd --prefix frontend test
 npm.cmd --prefix frontend run build
 ```
 
-Recorded V1 verification: **263 backend tests and 107 frontend tests passed**, plus the production build and Windows browser acceptance. See [QA_CHECKLIST.md](QA_CHECKLIST.md) for acceptance steps and [PROMPT_REVIEW.md](PROMPT_REVIEW.md) for prompt evaluation limits.
+Recorded V1 verification: **263 backend tests and 107 frontend tests passed**, plus the production build and Windows browser acceptance.
 
 ## Limitations and roadmap
 
 V1 is a local, single-user tool for one short paragraph. Feedback is advisory, not factual verification; live model access and semantic quality have not been evaluated. Recovery depends on browser storage remaining available.
 
-The [spec](WRITING_ASSISTANT_V1_SPEC.md) deliberately leaves these areas outside V1; they are possible future scope, not committed features:
+These areas are outside V1; they are possible future scope, not committed features:
 
 - Paragraph coherence and document-level review.
 - English-level selection, learning profiles, and grammar lessons.
 - Idea expansion, evidence tools, citation search, and full-text rewriting.
 - User accounts, cloud deployment, and streaming responses.
 - Plagiarism checking and AI-detection features.
-
-For implementation details, see [SOLUTION_DESIGN.md](SOLUTION_DESIGN.md).

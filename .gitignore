@@ -23,3 +23,8 @@ backend/data/
 # Local build notes omitted from the public source snapshot
 /PROGRESS.md
 /WRITING_ASSISTANT_V1_SPEC_REVIEW.md
+
+/PROMPT_REVIEW.md
+/QA_CHECKLIST.md
+/SOLUTION_DESIGN.md
+/WRITING_ASSISTANT_V1_SPEC.md
