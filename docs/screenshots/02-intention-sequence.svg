@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title description">
+  <title id="title">Intention sequence screenshot placeholder</title>
+  <desc id="description">Replace with an actual screenshot showing ordered sentence purposes and editing controls.</desc>
+  <rect width="960" height="300" rx="12" fill="#f3f5f4"/>
+  <rect x="20" y="20" width="920" height="260" rx="8" fill="none" stroke="#aebbb3" stroke-dasharray="8 8"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="480" y="142" font-size="24" fill="#315a47">02 · Intention sequence</text>
+    <text x="480" y="180" font-size="16" fill="#617066">Screenshot placeholder — replace with an app capture</text>
+  </g>
+</svg>

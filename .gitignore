@@ -1,0 +1,25 @@
+# Secrets (root and backend; examples are safe to commit)
+.env
+.env.*
+**/.env
+**/.env.*
+!**/.env.example
+
+# Local runtimes, databases and build output
+.tools/
+**/.venv/
+backend/data/
+**/node_modules/
+**/dist/
+**/__pycache__/
+**/*.py[cod]
+**/.pytest_cache/
+**/.coverage
+**/htmlcov/
+**/*.tsbuildinfo
+*.log
+.DS_Store
+
+# Local build notes omitted from the public source snapshot
+/PROGRESS.md
+/WRITING_ASSISTANT_V1_SPEC_REVIEW.md
